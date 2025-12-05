@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Ibrahim usman
+-👮‍♂️Serving Nigeria Police Officer 
+-📚studying Computer Science at NOUN. 
+-❤️‍🔥Passionate about merging law enforcement with cybersecurity to 
+-🥷fight digital crime. 
+-💻Currently learning Python & Networking.
 - 👀 I’m interested in learning coding programming. 
 - 🌱 I’m currently learning computer science at the NATIONAL OPEN UNIVERSITY OF NIGERIA. 
 - 💞️ I’m looking to collaborate on learning from a mentor
